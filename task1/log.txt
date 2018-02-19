@@ -1,0 +1,11 @@
+commit 7b227d6ebb092b258d72ecb590a52f75f28560a2
+Author: Павел <fedyushkps1999@gmail.com>
+Date:   Tue Feb 20 00:18:56 2018 +0300
+
+    add status.txt
+
+commit 1d2165d6081fda7df18f0ef70b225ad46496aa21
+Author: Павел <fedyushkps1999@gmail.com>
+Date:   Tue Feb 20 00:04:14 2018 +0300
+
+    add .gitignore
